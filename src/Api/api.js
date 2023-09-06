@@ -1,0 +1,1 @@
+export const API ="https://64ef6e32219b3e2873c47f45.mockapi.io/management/users"
